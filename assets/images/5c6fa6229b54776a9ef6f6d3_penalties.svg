@@ -1,0 +1,14 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M63 8H1V62H63V8Z" fill="white"/>
+<path d="M60 10H4V62H60V10Z" fill="#73DCE0"/>
+<path d="M64 2H0V8H64V2Z" fill="#736B6D"/>
+<path d="M63 8V62" stroke="#524A4D" stroke-width="2" stroke-miterlimit="10"/>
+<path d="M1 62V8" stroke="#524A4D" stroke-width="2" stroke-miterlimit="10"/>
+<path d="M32 53C41.3888 53 49 45.3888 49 36C49 26.6112 41.3888 19 32 19C22.6112 19 15 26.6112 15 36C15 45.3888 22.6112 53 32 53Z" stroke="#524A4D" stroke-width="2" stroke-miterlimit="10"/>
+<path d="M32 50C39.732 50 46 43.732 46 36C46 28.268 39.732 22 32 22C24.268 22 18 28.268 18 36C18 43.732 24.268 50 32 50Z" fill="white"/>
+<path d="M40 31L31 40L26 35" stroke="#524A4D" stroke-width="2" stroke-miterlimit="10"/>
+<path d="M18 5H60" stroke="#E2DDDF" stroke-width="2" stroke-miterlimit="10"/>
+<path d="M14 5H12" stroke="#E2DDDF" stroke-width="2" stroke-miterlimit="10"/>
+<path d="M6 5H4" stroke="#E2DDDF" stroke-width="2" stroke-miterlimit="10"/>
+<path d="M10 5H8" stroke="#E2DDDF" stroke-width="2" stroke-miterlimit="10"/>
+</svg>
